@@ -9,15 +9,15 @@
 
 
 body {
-    font-family: Lato, sans-serif;
+    font-family: Oswald, sans-serif;
     font-weight: 300;
     color: #3a3a3a;
 }
 /* headingd and logo*/
 h1, h2 {
-    font-family: Lato, sans-serif;
+    font-family: Oswald, sans-serif;
     text-transform: uppercase;
-    letter-spacing: 4pc;
+    letter-spacing: 4px;
     color: #252525;
 
 }
